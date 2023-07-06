@@ -27,7 +27,7 @@ const About = () => {
             </button>
           </div>
           <div className='row image'>
-            <img src='/images/feature-img-1.jpg' alt='' />
+            <img src='/Images/feature-img-1.jpg' alt='' />
             <div className='control-btn'>
               <button className='prev'>
                 <i className='fas fa-play'></i>
