@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { Link, useHistory } from "react-router-dom";
 import HeadTitle from "../../Common/HeadTitle/HeadTitle";
 import axios from 'axios';
+import "./design.css"
+
 
 const Login = () => {
   const [email, setEmail] = useState("");

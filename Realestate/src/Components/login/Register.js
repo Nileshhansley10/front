@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import axios from "axios";
 import HeadTitle from "../../Common/HeadTitle/HeadTitle";
 import { Link, useHistory } from "react-router-dom";
+import "./design.css"
+
 
 const Register = () => {
   const [name, setName] = useState("");
