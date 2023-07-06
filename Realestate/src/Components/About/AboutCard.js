@@ -17,7 +17,7 @@ const AboutCard = () => {
           </button>
         </div>
         <div className='row image'>
-          <img src='images/about-img-1.jpg' alt='' />
+          <img src='Images/about-img-1.jpg' alt='' />
           <div className='control-btn'>
             <button className='prev'>
               <i className='fas fa-play'></i>
