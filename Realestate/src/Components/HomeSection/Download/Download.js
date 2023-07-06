@@ -19,12 +19,12 @@ const Download = () => {
               <li>&#10003; Add your own reviews and photos</li>
             </ul>
             <div className='img flex'>
-              <img src='/images/appstore-button.png' alt='' />
-              <img src='/images/google-play-button.png' alt='' />
+              <img src='/Images/appstore-button.png' alt='' />
+              <img src='/Images/google-play-button.png' alt='' />
             </div>
           </div>
           <div className='row row2'>
-            <img src='/images/app-image-1.png' alt='' className='image' />
+            <img src='/Images/app-image-1.png' alt='' className='image' />
           </div>
         </div>
       </section>
