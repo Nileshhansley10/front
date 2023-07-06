@@ -14,7 +14,6 @@ const HeadTitle = () => {
           <button>
             <Link to='/'> Home / </Link>
             <span>{location.pathname.split("/")[1]}</span>
-            {/*<span>{location.pathname.replace("/", " ")}</span>*/}
           </button>
         </div>
       </section>
